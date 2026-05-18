@@ -10,16 +10,16 @@ Apuntes detallados y estructurados para preparar la certificación **Claude Cert
 
 ## Tabla de contenidos
 
-| Dominio | Peso | Carpeta |
-|---|---|---|
-| **1. Agentic Architecture & Orchestration** | 27% | [`01-agentic-architecture/`](./01-agentic-architecture/) |
-| **2. Tool Design & MCP Integration** | 18% | [`02-tool-design-mcp/`](./02-tool-design-mcp/) |
-| **3. Claude Code Configuration & Workflows** | 20% | [`03-claude-code-config/`](./03-claude-code-config/) |
-| **4. Prompt Engineering & Structured Output** | 20% | [`04-prompt-engineering/`](./04-prompt-engineering/) |
-| **5. Context Management & Reliability** | ~15% | [`05-context-management/`](./05-context-management/) |
-| Glosario técnico | — | [`glossary.md`](./glossary.md) |
-| Escenarios de examen | — | [`exam-scenarios.md`](./exam-scenarios.md) |
-| Cheatsheet final | — | [`cheatsheet.md`](./cheatsheet.md) |
+| Dominio                                       | Peso | Carpeta                                                  |
+| --------------------------------------------- | ---- | -------------------------------------------------------- |
+| **1. Agentic Architecture & Orchestration**   | 27%  | [`01-agentic-architecture/`](./01-agentic-architecture/) |
+| **2. Tool Design & MCP Integration**          | 18%  | [`02-tool-design-mcp/`](./02-tool-design-mcp/)           |
+| **3. Claude Code Configuration & Workflows**  | 20%  | [`03-claude-code-config/`](./03-claude-code-config/)     |
+| **4. Prompt Engineering & Structured Output** | 20%  | [`04-prompt-engineering/`](./04-prompt-engineering/)     |
+| **5. Context Management & Reliability**       | ~15% | [`05-context-management/`](./05-context-management/)     |
+| Glosario técnico                              | —    | [`glossary.md`](./glossary.md)                           |
+| Escenarios de examen                          | —    | [`exam-scenarios.md`](./exam-scenarios.md)               |
+| Cheatsheet final                              | —    | [`cheatsheet.md`](./cheatsheet.md)                       |
 
 ---
 
@@ -118,8 +118,3 @@ Apuntes detallados y estructurados para preparar la certificación **Claude Cert
 - [x] Glosario técnico
 - [x] Escenarios de examen
 - [x] Cheatsheet
-
----
-
-**Autor:** [@jalvarezz13](https://github.com/jalvarezz13)
-**Licencia:** Uso personal — apuntes de estudio.

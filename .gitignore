@@ -1,0 +1,26 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editores
+.vscode/
+.idea/
+*.sublime-*
+
+# Temporales
+*.tmp
+*.bak
+*.log
+
+# Drafts personales
+drafts/
+notes-personales/
+*.private.md
+
+# Si en algún momento se añaden notebooks
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
